@@ -8,7 +8,6 @@ Autor: Artur Tabor                                                              
 
 
 Katalog zawiera grę kółko krzyżyk w terminalu napisaną w jezyku C++:
----------------------------------------------------------------------------------------
 
 I.  Program main.cpp implementuje grę w kółko i krzyżyk. Tworzy dwóch graczy jako obiekty
 klasy HumanPlayer, a następnie tworzy obiekt gry TicTacToe z tymi graczami. Uruchamia grę 
@@ -54,13 +53,10 @@ Po poleceniu by podać współrzędne gracza należy podac pierwszą współrzę
 współrzędna 
 Przykładowe poprawne współrzędne: 0 0; 2 1; 1 1; 0 2;
 
-------------------------------------------------------------------------------------------------------------
 
 
 * Jak uruchomic program:
-=========================
 g++ -o tic_tac_toe main.cpp TicTacToe.cpp    kompiluje oraz tworzy plik .exe
 .\tic_tac_toe.exe                            uruchamia grę
 
-============================================================================================================
  
