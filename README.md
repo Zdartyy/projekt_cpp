@@ -18,8 +18,8 @@ II. Program uruchamia grę, wyświetla planszę, pozwala graczom na wykonywanie 
 sprawdza warunki zwycięstwa lub remisu oraz obsługuje błędy związane z niepoprawnymi ruchami.
 
 W Klasie TicTacToe:
--Konstruktor: Inicjalizuje grę, tworząc planszę 3x3 i przypisując graczy.
--Destruktor: Usuwa graczy, aby zwolnić pamięć.
+Konstruktor: Inicjalizuje grę, tworząc planszę 3x3 i przypisując graczy.
+Destruktor: Usuwa graczy, aby zwolnić pamięć.
 -Metoda displayBoard: Wyświetla aktualny stan planszy.
 -Metoda playGame: Zarządza przebiegiem gry, wywołując ruchy graczy, sprawdzając zwycięstwo
 lub remis, i zmieniając aktualnego gracza.
